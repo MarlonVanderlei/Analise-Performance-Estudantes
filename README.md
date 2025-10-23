@@ -34,7 +34,7 @@ A análise revelou um *insight* decisivo sobre a performance dos estudantes:
 
 ## 📂 Arquivos do Repositório
 
-* [`Relatório.docx`](Relatório.docx): Relatório Analítico completo com a metodologia e a conclusão do projeto.
+* [`Relatório Performance dos Estudantes.docx`](Relatório Performance dos Estudantes.docx): Relatório Analítico completo com a metodologia e a conclusão do projeto.
 * `Performance dos Estudantes.xlsx`: Visualização final do dashboard construído no Excel.
 * `Dados/`: Pasta contendo o arquivo de dados original (para replicação da análise).
 
