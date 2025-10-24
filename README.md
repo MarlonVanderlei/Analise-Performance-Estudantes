@@ -34,8 +34,8 @@ A análise revelou um *insight* decisivo sobre a performance dos estudantes:
 
 ## 📂 Arquivos do Repositório
 
-* [`Relatório Performance dos Estudantes.pdf`](Dados/Relatório Performance dos Estudantes.pdf): Relatório Analítico completo com a metodologia e a conclusão do projeto.
-* [`Dashboard Performance dos Estudantes.pdf`](Dados/Dashboard Performance dos Estudantes.pdf): Visualização final do dashboard construído no Excel.
+* [`Relatório Performance dos Estudantes.pdf`](Dados/Relatório_Performance_dos_Estudantes.pdf): Relatório Analítico completo com a metodologia e a conclusão do projeto.
+* [`Dashboard Performance dos Estudantes.pdf`](Dashboard/Dashboard_Performance_dos_Estudantes.pdf): Visualização final do dashboard construído no Excel.
 
 ---
 *Este projeto demonstra proficiência em análise de dados, modelagem, visualização e geração de insights acionáveis usando ferramentas de mercado.*
